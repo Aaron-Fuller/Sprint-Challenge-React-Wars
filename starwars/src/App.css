@@ -6,3 +6,11 @@
   text-shadow: 1px 1px 5px #fff;
 }
 /* write your parent styles in here for your App.js */
+.Guy {
+  border: 5px solid black;
+  color:black;
+  text-shadow: 1px 1px 5px gray;
+  margin: auto;
+  width:40%;
+  margin-bottom:10px;
+  } 
